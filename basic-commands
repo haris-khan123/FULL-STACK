@@ -1,0 +1,805 @@
+apt get-intsall chrome
+    2  apt get intsall chrome
+    3  clear
+    4  exit
+    5  sudo apt-get install wget gpg
+    6  visual studio
+    7  clear
+    8  exit
+    9  sudo apt install apt-transport-https
+   10  clear
+   11  exit
+   12  sudo apt update
+   13  sudo apt install gparted
+   14  sudo gparted
+   15  cd Download
+   16  cd Downloads
+   17  ls
+   18  sudo dpkg -i code_1.89.1-1715060508_amd64.deb 
+   19  code
+   20  cd 
+   21  cd Desktop
+   22  mkdir react(ead)
+   23  mkdir React
+   24  clear
+   25  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   26  clear
+   27  exit
+   28  kill pid 2822
+   29  kill 2822
+   30  sudo
+   31  sudo user
+   32  clear
+   33  nvm install 20
+   34  clear
+   35  node --version
+   36  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   37  clear
+   38  # installs NVM (Node Version Manager)
+   39  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   40  # download and install Node.js
+   41  nvm install 22
+   42  # verifies the right Node.js version is in the environment
+   43  node -v # should print `v22.1.0`
+   44  # verifies the right NPM version is in the environment
+   45  npm -v # should print `10.7.0`
+   46  node --version
+   47  sudo apt install nodejs
+   48  clear
+   49  exit
+   50  code
+   51  node --version
+   52  clear
+   53  # installs NVM (Node Version Manager)
+   54  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   55  # download and install Node.js
+   56  nvm install 22
+   57  # verifies the right Node.js version is in the environment
+   58  node -v # should print `v22.1.0`
+   59  # verifies the right NPM version is in the environment
+   60  npm -v # should print `10.7.0`cleae
+   61  clear
+   62  clear history
+   63  cleae
+   64  clear
+   65  sudo apt install npm
+   66  node --version
+   67  clear
+   68  exit
+   69  sudo apt-get install c#
+   70  sudo apt-get install csharp
+   71  sudo apt-get install .NET SDK
+   72  clear
+   73  cd Downloads
+   74  ls -a
+   75  clear
+   76  exit
+   77  npm --version
+   78  npx --version
+   79  clear
+   80  npx create-react-app
+   81  sudo apt install node 14
+   82  sudo apt install node14
+   83  clear
+   84  sudo apt-get install nodejs
+   85  node --version
+   86  npx create-react-app
+   87  clear
+   88  nvm --version
+   89  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+   90  sudo apt-get install nodejs
+   91  node -v
+   92  clear
+   93  cd Desktop/
+   94  cd React/
+   95  create vite@latest
+   96  clear
+   97  node 
+   98  create vite@latest
+   99  pcreate vite@latest
+  100  npm i
+  101  create vite@latest
+  102  clear
+  103  sudo apt-get install chrome
+  104  clea
+  105  clear
+  106  exit
+  107  npm create vite@latest
+  108  clear
+  109  node --version
+  110  npm --version
+  111  npx --version
+  112  ping www.google.com
+  113  clear
+  114  ping www.pornhub.com
+  115  clear
+  116  ping www.youtube.com
+  117  clear
+  118  exit
+  119  $sudo apt update && sudo apt upgrade
+  120  sudo apt update && sudo apt upgrade
+  121  sudo apt-get install playonlinux samba winbind winetricks unrar
+  122  clear
+  123  touch msoffice.sh
+  124  cd msoffice
+  125  cd msoffice.sh
+  126  clear
+  127  cd Desktop/
+  128  cd mkdir msoffice
+  129  cd msoffice/
+  130  touch office.sh
+  131  cd office
+  132  cd office.sh
+  133  clear
+  134  chmod _x
+  135  chmod +x
+  136  chmod --help
+  137  chmod +x
+  138  office chmod +x
+  139  chmod +x office.sh
+  140  cd office.sh
+  141  clear
+  142  office.sh
+  143  chmod +x office.sh
+  144  office.sh
+  145  chmod +x office
+  146  chmod +x office.sh
+  147  office.sh
+  148  ./office.sh 
+  149  $unrar x filename.rar
+  150  unrar x filename.rar
+  151  unrar x office.rar
+  152  clea
+  153  clear
+  154  exit
+  155  sudo add-apt-repository ppa:yannubuntu/boot-repair
+  156  clear
+  157  sudo apt-get update; sudo apt-get install -y os-uninstaller
+  158  sudo apt-get install Boot-Repair-disk
+  159  clear
+  160  ecit
+  161  exit
+  162  apt get install uniyt
+  163  apt get install unity
+  164  apt get-install unity
+  165  apt-get-install unity
+  166  ping www.unityhub.com
+  167  lear
+  168  clear
+  169  exit
+  170  wget -qO - https://hub.unity3d.com/linux/keys/public | gpg --dearmor | sudo tee /usr/share/keyrings/Unity_Technologies_ApS.gpg > /dev/null
+  171  udo sh -c 'echo "deb [signed-by=/usr/share/keyrings/Unity_Technologies_ApS.gpg] https://hub.unity3d.com/linux/repos/deb stable main" > /etc/apt/sources.list.d/unityhub.list'
+  172  sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/Unity_Technologies_ApS.gpg] https://hub.unity3d.com/linux/repos/deb stable main" > /etc/apt/sources.list.d/unityhub.list'
+  173  sudo apt update
+  174  $ sudo apt-get install unityhub
+  175  npm create vite
+  176  clear
+  177  npm create vite@latest
+  178  clear
+  179  npm create-react-app myAPP
+  180  npm create-react-app myapp
+  181  clear
+  182  cd ..
+  183  node --version
+  184  clear
+  185  npx create-react-app myapp
+  186  npm -v
+  187  npm install npm@latest -g
+  188  cd ..
+  189  npm install npm@latest -g
+  190  chmod +x home
+  191  clear
+  192  npm -v
+  193  npm install npm@latest -g
+  194  sudo npm install -g <package_name>
+  195  sudo npm install -g node
+  196  sudo fdisk -l
+  197  # installs nvm (Node Version Manager)
+  198  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+  199  # download and install Node.js
+  200  nvm install 20
+  201  # verifies the right Node.js version is in the environment
+  202  node -v # should print `v20.13.1`
+  203  # verifies the right NPM version is in the environment
+  204  npm -v # should print `10.5.2`
+  205  node --v
+  206  node --version
+  207  clear
+  208  sudo apt-get remove nodejs
+  209  sudo apt-get remove npm
+  210  node -v
+  211  clear
+  212  node --version
+  213  npm --version
+  214  npx --version
+  215  clear
+  216  node --vesion
+  217  clear
+  218  curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - &&sudo apt-get install -y nodejs
+  219  node --version
+  220  npm --version
+  221  cd Desktop/
+  222  cd React/
+  223  npx create-react-app first-reactapp
+  224  cd first-reactapp/
+  225  npm i
+  226  clear
+  227  npm start
+  228  clear
+  229  npm start
+  230  cd ..
+  231  npm create vite@latest
+  232  cd tailwind-react\(7\)/
+  233  npm i
+  234  npm run dev
+  235  clear
+  236  npm install -D tailwindcss postcss autoprefixer
+  237  npx tailwindcss init -p
+  238  find / -name "example.jpg"
+  239  find /-name "wallpaperflare.com_wallpaper.jpg"
+  240  find /-name "ronaldo"
+  241  npm run dev
+  242  clear
+  243  npm run dev
+  244  vlear
+  245  clear
+  246  cd ..
+  247  cd first-reactapp/
+  248  clear
+  249  cd ..
+  250  cd first-reactapp/
+  251  cd ..
+  252  npm create vite@latest
+  253  cd background-color/
+  254  npm i
+  255  npm run dev
+  256  cleare
+  257  clear
+  258  npm install -D tailwindcss postcss autoprefixer
+  259  npx tailwindcss init -p
+  260  npm run dev
+  261  clear
+  262  cd ..
+  263  create vite@latest
+  264  clear
+  265  npm create vite@latest
+  266  cd password-generator/
+  267  npm i
+  268  ping http://localhost:5173/
+  269  clear
+  270  exit
+  271  npm run dev
+  272  clear
+  273  npm run dev
+  274  clear
+  275  cd ..
+  276  npm create vite@latest
+  277  cg currency-app/
+  278  cd currency-app/
+  279  npm i
+  280  npm run dev
+  281  clear
+  282  npm install -D tailwindcss postcss autoprefixer
+  283  npx tailwindcss init -p
+  284  npm run dev
+  285  clear
+  286  npm run dev
+  287  cd..
+  288  cd ..
+  289  npm create vite@lates
+  290  npm create vite@latest
+  291  cd rect-router/
+  292  npm i
+  293  npm install -D tailwindcss postcss autoprefixer
+  294  npx tailwindcss init -p
+  295  npm run dev
+  296  npm install react-router-dom
+  297  npm run dev
+  298  clear
+  299  npm run dev
+  300  clear
+  301  npm run dev
+  302  CLEAR
+  303  cleasr
+  304  clear
+  305  npm run dev
+  306  clear
+  307  cd ..
+  308  clear
+  309  npm create vite@latest 
+  310  cd props-revison/
+  311  npm i
+  312  clear
+  313  npm run dev
+  314  clear
+  315  npm run dev
+  316  clea
+  317  clear
+  318  npm run dev
+  319  clear
+  320  npm run dev
+  321  clear
+  322  npm run dev
+  323  clear
+  324  cd ..
+  325  mpm create vite@latest
+  326  npm create vite@latest
+  327  cd useEffect-useCallback/
+  328  npm i
+  329  clear
+  330  npm install -D tailwindcss postcss autoprefixer
+  331  npx tailwindcss init -p
+  332  clear
+  333  npm run dev
+  334  CLEAR
+  335  clear
+  336  npm run dev
+  337  clear
+  338  cd ..
+  339  clear
+  340  npm create vite@latest
+  341  cd redux-react/
+  342  npm i
+  343  clear
+  344  cd Desktop
+  345  touch EAD.docx
+  346  cd ..
+  347  exit
+  348  npm i
+  349  clear
+  350  npm run dev
+  351  c;ear
+  352  clear
+  353  i lodash
+  354  npm i lodash
+  355  clear
+  356  npm -v
+  357  clear
+  358  npm i immutable
+  359  clear
+  360  npm i redux@4.0
+  361  clear
+  362  npm run dev
+  363  clear
+  364  cd ..
+  365  node -v
+  366  clear
+  367  exit
+  368  clear
+  369  cd ..
+  370  cd chai\ and\ deploy/
+  371  add-apt-repository ppa:git-core/ppa
+  372  apt-get install git
+  373  sudo apt-get install git
+  374  sudo add-apt-repository ppa:git-core/ppa
+  375  sudo apt update
+  376  apt install git
+  377  sudo apt install git
+  378  clear
+  379  git
+  380  clear
+  381  exit
+  382  npm init
+  383  ls
+  384  node index.js 
+  385  npm run start
+  386  npm run faisal
+  387  clear
+  388  npm install express
+  389  clear
+  390  express -v
+  391  clear
+  392  npm run start
+  393  clear
+  394  npm run start
+  395  clear
+  396  npm run start
+  397  clear
+  398  npm run start
+  399  clear
+  400  npm run start
+  401  clear
+  402  npm run start
+  403  clear
+  404  npm run start
+  405  clear
+  406  npm dotenv
+  407  npm i dotenv
+  408  clear
+  409  npm run start
+  410  clear
+  411  npm run start
+  412  clear
+  413  git init
+  414  sudo apt install git
+  415  git init
+  416  git add .
+  417  clear
+  418  git commit -m "first commit"
+  419  git config --global user.email "hariskhan94434@gmail.com"
+  420  git config --global user.name "haris khan"
+  421  clear
+  422  git commit -m "first commit"
+  423  git branch -m main
+  424  git remote add origin https://github.com/haris-khan123/backend
+  425  clear
+  426  git push -u origin main
+  427  clear
+  428  git push -u origin main
+  429  clear
+  430  git config --global user.name "haris-khan"
+  431  git push -u origin main
+  432  git config --global user.name "haris-khan123"
+  433  clear
+  434  git push -u origin main
+  435  git remote add origin hariskhan94434@gmail.com
+  436  clear
+  437  cd ..
+  438  mkdir Fullstack
+  439  cd Fullstack/
+  440  cd BACKEND/
+  441  npm init
+  442  clear
+  443  npm i express
+  444  clear
+  445  touch server.js
+  446  rmdir server.js
+  447  clear
+  448  rm server.js
+  449  touch index.js
+  450  npm run start
+  451  clear
+  452  npm run start
+  453  clear\
+  454  clear
+  455  npm run start
+  456  clear
+  457  npm run start
+  458  clear
+  459  npm run start
+  460  clear
+  461  npm run start
+  462  clear
+  463  cd ..
+  464  cd FRONTEND/
+  465  npm create vite@latest
+  466  npm create vite@latest.
+  467  clear
+  468  cd front-end/
+  469  npm i
+  470  ls
+  471  npm run dev
+  472  clear
+  473  npm i axios
+  474  clear
+  475  npm run start
+  476  clear
+  477  npm run dev
+  478  clear
+  479  npm run dev
+  480  clear
+  481  npm run dev
+  482  clear
+  483  npm run dev
+  484  clear
+  485  npm run build
+  486  clear
+  487  npm run dev
+  488  clear
+  489  cd ..
+  490  cd BACKEND/
+  491  npm run start
+  492  clear
+  493  npm run start
+  494  lear
+  495  clear
+  496  npm run start
+  497  clear
+  498  cd ..
+  499  mkdir Node
+  500  cd Node/
+  501  node -v
+  502  clear
+  503  node app.js
+  504  clear
+  505  node app.js
+  506  clear
+  507  node app.js
+  508  clear
+  509  node app.js
+  510  clear
+  511  node logger.js
+  512  clear
+  513  node app.js
+  514  clear
+  515  node app.js
+  516  clear
+  517  node app.js
+  518  clear
+  519  node logger.js
+  520  clear
+  521  node app.js
+  522  clear
+  523  node logger.js
+  524  clear
+  525  node logger.js
+  526  clear
+  527  node app.js
+  528  clear
+  529  jshint app.js
+  530  clear
+  531  jshint app.js
+  532  clear
+  533  npm i jshint
+  534  clear
+  535  jshint app.js
+  536  clear
+  537  rm node_modules
+  538  rmdir node_modules
+  539  clear
+  540  node logger.js
+  541  clear
+  542  exit
+  543  cat /etc/lsb-release
+  544  sudo apt-get install gnupg curl
+  545  clear
+  546  sudo apt-get install gnupg curl
+  547  clear
+  548  sudo apt update
+  549  sudo apt upgrade
+  550  clear
+  551  sudo apt-get install gnupg curl
+  552  sudo apt-get install gnupg curlclear
+  553  clear
+  554  curl -fsSL https://pgp.mongodb.com/server-6.0.asc | \sudo gpg -o /etc/apt/trusted.gpg.d//mongodb-server-6.0.gpg \--dearmor
+  555  sudo curl -fsSL https://pgp.mongodb.com/server-6.0.asc | \sudo gpg -o /etc/apt/trusted.gpg.d//mongodb-server-6.0.gpg \--dearmor
+  556  clear
+  557  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
+  558  sudo apt update
+  559  sudo apt intsall mongodb-org
+  560  sudo apt install mongodb-org
+  561  clear
+  562  sudo systemctl enable --now mongod
+  563  clear
+  564  exit
+  565  node logger.js
+  566  clear
+  567  node path.js
+  568  clear
+  569  node osmodule.js
+  570  clear
+  571  node osmodule.js
+  572  clear
+  573  node filesysytemmodule.js
+  574  clear
+  575  node filesytemmodule.js
+  576  clear
+  577  node filesytemmodule.js
+  578  clear
+  579  node filesystemmodule.js 
+  580  clear
+  581  node filesystemmodule.js 
+  582  clear
+  583  node filesystemmodule.js 
+  584  clear
+  585  node filesystemmodule.js 
+  586  clear
+  587  node filesystemmodule.js 
+  588  clear
+  589  node filesystemmodule.js 
+  590  clea
+  591  clear
+  592  node eventNode.js
+  593  node httpMdule.js
+  594  clear
+  595  node httpsMdule.js
+  596  clear
+  597  node httpsModule.js
+  598  clear
+  599  node httpsModule.js
+  600  clear
+  601  cd ..
+  602  clear
+  603  touch new.txt
+  604  nano new.txt
+  605  nano new.txt 
+  606  clear
+  607  exit
+  608  cd ..
+  609  mkdir router-again 
+  610  cd router-again/
+  611  npm create vite@latest
+  612  cleacd react-routeragain/
+  613  npm i
+  614  clear
+  615  cd react-routeragain/
+  616  npm i
+  617  npm run dev
+  618  clear
+  619  npm run dev
+  620  clear
+  621  npm i react-router-dom
+  622  clear
+  623  npm run dev
+  624  clear
+  625  npm run dev
+  626  clear
+  627  cd ..
+  628  git clone https://github.com/haris-khan123/ROUTER.git
+  629  clear
+  630  cd react-routeragain/
+  631  git init
+  632  git add README.md
+  633  git commit -m "first commit"
+  634  git branch -M main
+  635  git remote add origin https://github.com/haris-khan123/ROUTER.git
+  636  git push -u origin main
+  637  ls
+  638  clear
+  639  git add .
+  640  git commit -m "lan pe charo"
+  641  git push
+  642  clear
+  643  npm run dev
+  644  clear
+  645  npm run dev
+  646  clear
+  647  npm run dev
+  648  clear
+  649  npm install -D tailwindcss postcss autoprefixer
+  650  npx tailwindcss init -p
+  651  clear
+  652  npm run dev
+  653  cd ..
+  654  mkdir Mongo-db
+  655  cd Mongo-db/
+  656  cd Desktop/
+  657  ls
+  658  git init
+  659  git add .
+  660  clear
+  661  cd ..
+  662  exit
+  663  git 
+  664  clear
+  665  sudo apt update
+  666  clear
+  667  git --version
+  668  clear
+  669  git --version
+  670  clear
+  671  git config --global user.name "haris-khan123"
+  672  git config --global user.email "hariskhan94434@gmail.com"
+  673  git config --list
+  674  clear
+  675  mkdir Workspace
+  676  cd Workspace/
+  677  git clone https://github.com/haris-khan123/ROUTER.git
+  678  ls
+  679  clear
+  680  gcd ..
+  681  cd ..
+  682  cd Desktop/
+  683  ls
+  684  cd Fullstack/
+  685  ls
+  686  git init
+  687  git add.
+  688  clear
+  689  ls
+  690  cd BACKEND/
+  691  git init
+  692  git add .
+  693  git commit -m "first commit"
+  694  git remote add origin https://github.com/haris-khan123/FULL-STACK.git
+  695  git push -u origin main
+  696  clear
+  697  exit
+  698  cd ..
+  699  ls
+  700  cd Mongo-db/
+  701  clear
+  702  cat /etc/lsb-release
+  703  sudo apt-get install gnupg curl
+  704  etc/apt/sources.list.d/mongodb-org-7.0.list
+  705  sudo apt-get install -y mongodb-org
+  706  sudo apt upgrade
+  707  sudo apt-get install -y mongodb-org
+  708  clear
+  709  mongo db
+  710  mongod --version
+  711  sudo apt install mongodb-server-core
+  712  mongod --version
+  713  clear
+  714  cd ..
+  715  ls
+  716  cd Mongo-db/
+  717  cd ..
+  718  cd Fullstack/
+  719  ls
+  720  git init
+  721  git add .
+  722  clear
+  723  cd BACKEND/
+  724  git init
+  725  git add .
+  726  git commit -m "this file contain  backend"
+  727  git commit -m "first-commit"
+  728  clear
+  729  git branch -M main
+  730  git remote add origin https://github.com/haris-khan123/FULL-STACK.git
+  731  git push -u origin main
+  732  clear
+  733  cd ..
+  734  cd FRONTEND/
+  735  git init 
+  736  clear
+  737  git init 
+  738  gti add .
+  739  git commit -m "frontend"
+  740  clear
+  741  cd ..
+  742  ls 
+  743  cd Mongo-db/
+  744  clear
+  745  npm init
+  746  npm i express
+  747  cd ..
+  748  cd Desktop/
+  749  ls
+  750  cd HARIS.jpeg
+  751  ls
+  752  pwd
+  753  cd ..
+  754  clear
+  755  git init
+  756  git add .
+  757  git commit -m "router-again"
+  758  git remote add origin https://github.com/haris-khan123/ROUTER-AGAIN.git
+  759  git push -u origin main
+  760  clear
+  761  git init
+  762  git add .
+  763  git commit -m "router-again"
+  764  git remote add origin https://github.com/haris-khan123/ROUTER-AGAIN.git
+  765  git push -u origin main
+  766  git push -u origin 
+  767  git push -u origin main
+  768  git push -u origin Main
+  769  clear
+  770  git init
+  771  git commit -m "first commit"
+  772  git branch -M main
+  773  git remote add origin https://github.com/haris-khan123/ROUTER-AGAIN.git
+  774  git push -u origin main
+  775  clear
+  776  cd ..
+  777  ls
+  778  cd Node/
+  779  CLEAR
+  780  cleasr
+  781  clear
+  782  git init
+  783  git add .
+  784  git commit -m "nodejs"
+  785  git branch -M main
+  786  git remote add origin https://github.com/haris-khan123/NODE-JS.git
+  787  git push -u origin main
+  788  clear
+  789  cd ..
+  790  cd chai\ and\ deploy/
+  791  git init
+  792  git add .
+  793  git commit -m "deployement"
+  794  git branch -M main
+  795  git remote add origin https://github.com/haris-khan123/.git
+  796  git push -u origin main
+  797  clear
+  798  git init
+  799  git add .
+  800  git commit -m "deployement"
+  801  git remote add origin https://github.com/haris-khan123/DEPLOYMENT.git
+  802  git push -u origin main
+  803  clear
+  804  cd ..
+  805  history
