@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backen with chai",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [
+    "backend",
+    "chai"
+  ],
+  "author": "hariskhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
